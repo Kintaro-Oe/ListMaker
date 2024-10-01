@@ -14,5 +14,4 @@ App requirements:
 
 ## Demo
 
-<img src="img/LisMaker.png" width="270" height="600" />
-<img src="img/LisMaker.gif" width="270" height="600" />
+<img src="img/ListMaker.gif" width="270" height="600" />
